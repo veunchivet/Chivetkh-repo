@@ -1,2 +1,4 @@
 # Chivetkh-repo
-Chivetkh for GitHub intro video.
+Chivetkh for GitHub intro videos.
+
+
